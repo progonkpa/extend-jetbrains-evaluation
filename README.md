@@ -11,7 +11,7 @@ Plan a recurring scheduled task to run this script every 25 days.
 ## Linux
 
 ## Run script
-chmod +x extend_jetbrains_evaluation.sh
+chmod +x extend_jetbrains_evaluation.sh  
 ./extend_jetbrains_evaluation.sh
 
 ### Automate evaluation extension
